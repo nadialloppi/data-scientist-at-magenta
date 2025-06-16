@@ -16,6 +16,7 @@ Steps to get started:
 
 - Clone the repository to your GitHub space.
 - Open a **Codespace** – setup may take 1–2 minutes.
+  - <a href='https://codespaces.new/telekom/data-scientist-at-magenta'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
 - In the terminal, run `pixi run start-dev` – this command will start your Pixi environment.
 - Open your browser and go to `https://<your-code-space-name>-<random-chars>-3000.app.github.dev/`  
   or click **"Open in Browser"** when prompted.
