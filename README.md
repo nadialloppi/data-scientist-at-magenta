@@ -98,7 +98,7 @@ Please cover the following points:
 - dbt: https://www.getdbt.com/
 
 ## advanced usage
-# ## docker
+### docker
 
 ```bash
 docker compose -f docker-compose.yml --profile dagster_onprem up --build
