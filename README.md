@@ -59,6 +59,9 @@ We've provided a basic structure to help you get started, but feel free to modif
 Feel free to use notebooks for exploration porpuse.  
 Be ready to explain your code to us, for example why you choose specific model, which explorative analysis you run, which metric you implemented etc (commenting the code will help everybody in this exercise ;) ).
 
+Please also keep in mind that the data is randomly generated — we don’t expect your model to have the highest accuracy.  
+The goal is to see how you approach a data science task, how you explain your choices, and how you evaluate your results (e.g. through performance metrics, interpretation of outcomes, and reflections on limitations).
+
 **Disclaimer**  
 We understand that this repository contains more than needed and introduces several new tools at once.  
 We really appreciate your flexibility and your ability to learn fast. What matters most to us is how you approach this challenge — not having a perfect model or the most optimized code.  
